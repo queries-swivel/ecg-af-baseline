@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+wfdb
+neurokit2
+scikit-learn
+xgboost
+reportlab
+pydyf==0.11.0
+
+PyPDF2
